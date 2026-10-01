@@ -1,0 +1,15 @@
+# Data (too big for GitHub)
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
