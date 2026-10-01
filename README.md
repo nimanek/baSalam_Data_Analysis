@@ -17,9 +17,9 @@ I worked as an analyst answering real business questions using product data. Eac
 
 | # | Question | Asked by | Notebook |
 |---|----------|----------|----------|
-| 1 | How much is our daily revenue? | CEO | [01_daily_revenue](notebooks/01_daily_revenue.ipynb) |
-| 2 | Which categories generate the most daily revenue? | CEO | [02_revenue_by_category](notebooks/02_revenue_by_category.ipynb) |
-| 3 | Is there a relationship between preparation time and sales? | Sales PM | [03_prep_time_vs_sales](notebooks/03_prep_time_vs_sales.ipynb) |
+| 1 | How much is our daily revenue? | CEO | [01_daily_revenue](notebooks/daily_sales_revenue_01.ipynb) |
+| 2 | Which categories generate the most daily revenue? | CEO | [02_revenue_by_category](notebooks/daily_sales_revenue_by_category_01.ipynb) |
+| 3 | Is there a relationship between preparation time and sales? | Sales PM | [03_prep_time_vs_sales](notebooks/relation_btw_time&sale_01.ipynb) |
 
 ## Key Findings
 
