@@ -4,12 +4,12 @@
 
 ## Project Overview
 
-I worked as an analyst answering real business questions using product data. Each notebook starts with a question and ends with an answer in plain language.
+This is a personal project where I answer business-style questions that a CEO or Sales PM might ask.
 
 ## Data
 
 - **Source:** BaSalam products dataset [https://www.kaggle.com/datasets/radeai/basalam-comments-and-products]
-- **Size:** 2.4 million rows (a sample of the first 5,000 / 100,000 rows)
+- **Size:** Full dataset: 2.4 million rows. (a sample of the first 5,000 / 100,000 rows)
 - **Key columns:** `price`, `sales_count_week`, `categoryTitle`, `preparationDays`
 - **Note:** The CSV files are not included in this repository because of their size.
 
@@ -43,8 +43,8 @@ Python, Pandas, Matplotlib, Seaborn, Jupyter
 ## How to Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/basalam-sales-analysis.git
-cd basalam-sales-analysis
+git clone https://github.com/nimanek/baSalam_Data_Analysis.git
+cd baSalam_Data_Analysis
 pip install -r requirements.txt
 ```
 Place the CSV files in a `data/` folder, then open the notebooks in Jupyter.
